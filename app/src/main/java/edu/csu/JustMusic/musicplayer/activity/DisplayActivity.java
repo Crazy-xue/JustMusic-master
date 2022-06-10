@@ -60,10 +60,6 @@ import edu.csu.JustMusic.musicplayer.tool.DrawerLayoutListViewAdapter;
 import edu.csu.JustMusic.musicplayer.tool.PictureDealHelper;
 import edu.csu.JustMusic.musicplayer.tool.SongAdapter;
 
-/**
- * Created by 阮 on 2018/11/17.
- * main activity
- */
 
 public class DisplayActivity extends BaseActivity {
     /*控件*/
