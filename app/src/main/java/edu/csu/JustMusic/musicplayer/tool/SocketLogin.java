@@ -8,10 +8,6 @@ import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 
 /**
- * Created by Android Studio.
- * User: lvdou-jack
- * Date: 2019/6/6
- * Time: 21:16
  * 使用socket与本机进行通信实现密码验证
  */
 public class SocketLogin extends Thread{
