@@ -2,9 +2,6 @@ package edu.csu.JustMusic.musicplayer.model;
 
 import android.graphics.Bitmap;
 
-/**
- * Created by 阮 on 2018/11/17.
- */
 
 public class Song {
     private String title;//歌名
