@@ -19,7 +19,6 @@ import edu.csu.JustMusic.musicplayer.model.SongsCollector;
 
 
 /**
- * Created by 阮 on 2018/11/18.
  * 音乐service，后台处理播放逻辑
  */
 
