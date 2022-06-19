@@ -23,8 +23,8 @@ public class MungNotification {
     private static NotificationManager mNotificationManager;
     private int current_number = 0;
     private int current_status = MusicService.STATUS_STOPPED;
-    private String channelId = "Mung音乐播放器";
-    private String channelName = "Mung音乐播放器";
+    private String channelId = "JustMusic音乐播放器";
+    private String channelName = "JustMusic音乐播放器";
 
     /**
      * 构造函数
