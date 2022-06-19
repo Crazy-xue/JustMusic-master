@@ -14,9 +14,6 @@ import java.util.List;
 import edu.csu.JustMusic.musicplayer.R;
 import edu.csu.JustMusic.musicplayer.model.Song;
 
-/**
- * Created by 阮 on 2018/11/17.
- */
 
 public class SongAdapter extends ArrayAdapter<Song> {
     private int resourceId;//用来放置布局文件的id
