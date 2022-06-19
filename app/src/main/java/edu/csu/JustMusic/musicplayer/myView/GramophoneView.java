@@ -19,11 +19,6 @@ import android.view.View;
 import edu.csu.JustMusic.musicplayer.R;
 import edu.csu.JustMusic.musicplayer.tool.PictureDealHelper;
 
-/**
- * Created by Kingfar on 2017/12/18.
- * 仿网易云音乐留声机（唱片机）View
- */
-
 public class GramophoneView extends View {
 
     /**
