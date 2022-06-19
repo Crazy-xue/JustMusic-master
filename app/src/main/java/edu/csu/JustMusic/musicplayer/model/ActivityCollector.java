@@ -5,13 +5,6 @@ import android.app.Activity;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by 阮 on 2018/11/17.
- * manage activities
- * add
- * remove
- * finishAll
- */
 
 public class ActivityCollector {
     private static List<Activity> activities = new ArrayList<>();
